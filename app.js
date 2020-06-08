@@ -1,1 +1,2 @@
-let fs = required('fs');
+let fs = require('fs');
+console.log(fs);
